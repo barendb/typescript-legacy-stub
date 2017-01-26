@@ -1,0 +1,8 @@
+{
+  "name": "typescript-legacy-stub",
+  "version": "1.8.10",
+  "description":"Legacy version of TypeScript, this is created so we can run two versions of TS side by side",
+  "dependencies": {
+    "typescript": "1.8.10"
+  }
+}
